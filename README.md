@@ -2,9 +2,9 @@
 
 Desafio "Semáforo" para aprendizado de JavaScript.
 
-Foi criado um semáforo com botões para ligar cada uma das cores e um botão com a opção de automático.\
-Para isso foi utilizado o uso do ternário no lugar do IF, funções do tipo arrow, 
-funções armazenadas em objetos para criar uma chamada dinâmica e temporizadores
+Criação de um semáforo com botões para ligar cada uma das cores, um botão com a opção de automático e um botão com a opção de parar o semáforo.\
+Para isso foi utilizado o uso do ternário no lugar do IF, funções do tipo arrow function, 
+funções armazenadas em objetos para criar uma chamada dinâmica e temporizadores.
 
 <h2> Linguagens utilizadas: </h2>
 
